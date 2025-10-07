@@ -1,4 +1,4 @@
-import GameContext from "./context/GameContext.jsx";
+import GameContext from "./context/GameContext.js";
 import Game from "./components/Game";
 
 function App() {
